@@ -28,7 +28,7 @@ Neste repositório, você encontrará os seguintes arquivos:
 
 Para visualizar o projeto na sua máquina, siga estas etapas:
 
-1. Faça um clone deste repositório em sua máquina local:
+1. Faça um clone deste repositório em sua máquina local
 2. Abra o arquivo index.html em seu navegador da web para ver o resultado.
 3. Prontinho! A arte estará aberta no seu navegador <img src="https://github.com/ellen-caroline/workshop-arte-com-css/assets/106993186/f59e7401-a395-4d97-a036-84e2704d7b97" align="left" width="30px" alt="gif de uma gatinho com coração em pixelart">
 
