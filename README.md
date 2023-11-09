@@ -21,7 +21,7 @@ Este workshop foi uma oportunidade incrível de aprender a criar arte utilizando
 Neste repositório, você encontrará os seguintes arquivos:
 
 - `index.html`: O arquivo HTML que contém a estrutura da astronauta.
-- `style.css`: O arquivo CSS que contém o código de estilo.
+- `style.css`: O arquivo CSS que contém o código de estilo da astronauta.
 
 
 ### 🌐 Como Executar
