@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ellen-caroline/workshop-arte-com-css/assets/106993186/d75861b8-2475-4e36-b1ec-b5593c2181f8" width=30% alt="astronaura feita em css">
+  <img src="https://github.com/ellen-caroline/workshop-arte-com-css/assets/106993186/d75861b8-2475-4e36-b1ec-b5593c2181f8" width=30% alt="astronauta feita em css">
     <div>
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&background=transparent" width=70px alt="HTML5">
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" width=60px alt="CSS3">
@@ -20,8 +20,8 @@ Este workshop foi uma oportunidade incrível de aprender a criar arte utilizando
 
 Neste repositório, você encontrará os seguintes arquivos:
 
-- `index.html`: O arquivo HTML que contém a estrutura da página.
-- `style.css`: O arquivo CSS que contém o código de estilo para a página.
+- `index.html`: O arquivo HTML que contém a estrutura da astronauta.
+- `style.css`: O arquivo CSS que contém o código de estilo.
 
 
 ### 🌐 Como Executar
